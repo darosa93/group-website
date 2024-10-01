@@ -19,3 +19,4 @@ are caused by two trailing spaces at the end of a line.
 1. Notion 1
 2. Notion 2
 3. Notion 3
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
