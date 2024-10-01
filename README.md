@@ -20,3 +20,6 @@ are caused by two trailing spaces at the end of a line.
 2. Notion 2
 3. Notion 3
 ![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/embed/jSyCYRq0jU4?si=IsMToWTV34WV3IiX")
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
